@@ -1,0 +1,25 @@
+.red{
+    color:red;
+    
+}
+.red:hover{
+    color:blue;
+}
+.petit{
+    width:10%;
+}
+.grand{
+    width:40%;
+}
+.dis{
+    display: inline;
+}
+.bb{
+    width:40%;
+    /* background-color: red; */
+    height: 350px;
+}
+.cc{
+    width:40%;
+    background-color: greenyellow;
+}

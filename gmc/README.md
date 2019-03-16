@@ -1,0 +1,2 @@
+# GoMyCodeWorkshop
+initiation to github
